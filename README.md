@@ -1,1 +1,1 @@
-# bobo-hlwm
+# bobo-xfce-calamares-config
